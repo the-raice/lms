@@ -1,0 +1,13 @@
+{
+    "name": "the-raice/lms",
+    "description": "The Raice LMS",
+    "keywords": ["raice", "LMS", "PHP"],
+    "license": "MIT",
+	"version:": "0.1",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0",
+        "the-raice/framework": "0.1"
+    },
+    "minimum-stability": "stable"
+}
